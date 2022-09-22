@@ -34,7 +34,7 @@
 ![alt text](./BrainTumor/bratsV1_4.png)
 
 ## Lessons Learned
-After analyzing various results from different version of the model, I should have used a Weighted Loss function as the dataset contain less number of samples of classes 2 and 3
+After analyzing various results from different version of the model, I should have used a Weighted Loss function as the dataset contain less number of samples from classes 2 and 3
 
 
 
