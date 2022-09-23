@@ -5,7 +5,7 @@
 
 | DiceCoef   | IOU    | Recall   | Precision   |
 |:----------:|:------:|:--------:|:-----------:|
-| 0.80       | 0.68   | 0.78     | 0.82        |
+| 0.94       | 0.89   | 0.98 | 0.98 |
 
 ![alt text](./BrainTumor/bratsV3_2.png)
 ![alt text](./BrainTumor/bratsV3_3.png)
@@ -16,7 +16,7 @@
 
 | DiceCoef   | IOU    | Recall   | Precision   |
 |:----------:|:------:|:--------:|:-----------:|
-| 0.80       | 0.68   | 0.78     | 0.82        |
+| 0.88 | 0.79   | 0.97     | 0.97        |
 
 ![alt text](./BrainTumor/bratsV2_8.png)
 ![alt text](./BrainTumor/bratsV2_3.png)
